@@ -7,14 +7,19 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn while working with smart people 
 in [Antares Tech](http://antares-tech.com/).
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Linux](#linux)
 
 ---
+
+### Linux
+
+- [Monitor udev events](linux/monitor-udev-events.md)
 
 ## Usage
 
