@@ -13,14 +13,14 @@ _2 TILs and counting..._
 
 ### Categories
 
-* [Js](#js)
+* [Javascript](#javascript)
 * [Linux](#linux)
 
 ---
 
-### Js
+### Javascript
 
-- [None](js/object-vs-map.md)
+- [Object vs Map](javascript/object-vs-map.md)
 
 ### Linux
 
