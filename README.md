@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn while working with smart people 
 in [Antares Tech](http://antares-tech.com/).
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _2 TILs and counting..._
 
 * [Javascript](#javascript)
 * [Linux](#linux)
+* [Vim](#vim)
 
 ---
 
@@ -25,6 +26,10 @@ _2 TILs and counting..._
 ### Linux
 
 - [Monitor udev events](linux/monitor-udev-events.md)
+
+### Vim
+
+- [Prettify JSON in Vim](vim/prettify-json.md)
 
 ## Usage
 
