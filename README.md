@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn while working with smart people 
 in [Antares Tech](http://antares-tech.com/).
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _3 TILs and counting..._
 
 ### Vim
 
+- [Auto Reloading file on external change in Vim](vim/auto-reload-file-on-change.md)
 - [Prettify JSON in Vim](vim/prettify-json.md)
 
 ## Usage
