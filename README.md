@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn while working with smart people 
 in [Antares Tech](http://antares-tech.com/).
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _5 TILs and counting..._
 ### Vim
 
 - [Auto Reloading file on external change in Vim](vim/auto-reload-file-on-change.md)
+- [Get Current Working Directory in Command Mode](vim/get-cwd-path-in-vim-command.md)
 - [Prettify JSON in Vim](vim/prettify-json.md)
 
 ## Usage
