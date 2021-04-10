@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn while working with smart people 
 in [Antares Tech](http://antares-tech.com/).
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _6 TILs and counting..._
 ### Linux
 
 - [Monitor udev events](linux/monitor-udev-events.md)
+- [Redirection rules for loopback interface](linux/redirection-rules-for-loopback-interface.md)
 
 ### Vim
 
