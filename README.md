@@ -4,8 +4,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
-warrant a full blog post. These are mostly things I learn while working with smart people 
-in [Antares Tech](http://antares-tech.com/).
+warrant a full blog post.
 
 _7 TILs and counting..._
 
