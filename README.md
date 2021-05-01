@@ -6,15 +6,17 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_8 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Cpp](#cpp)
+* [Css](#css)
 * [Javascript](#javascript)
 * [Linux](#linux)
+* [React](#react)
 * [Vim](#vim)
 
 ---
@@ -24,6 +26,9 @@ _8 TILs and counting..._
 - [Lambda Functions (C++11)](cpp/lambda-functions.md)
 - [Utility function to split a string](cpp/split-string.md)
 
+### Css
+
+
 ### Javascript
 
 - [Object vs Map](javascript/object-vs-map.md)
@@ -32,6 +37,11 @@ _8 TILs and counting..._
 
 - [Monitor udev events](linux/monitor-udev-events.md)
 - [Redirection rules for loopback interface](linux/redirection-rules-for-loopback-interface.md)
+
+### React
+
+- [React.Fragment](react/Fragement.md)
+- [React.useCallback() and React.Memo](react/useCallback.md)
 
 ### Vim
 
