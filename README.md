@@ -75,7 +75,7 @@ The README creation script is also stolen from
 
 ## License
 
-&copy; 2020 Soumik Pradhan
+&copy; 2021 Soumik Pradhan
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
