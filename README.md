@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -40,6 +40,7 @@ _10 TILs and counting..._
 
 ### React
 
+- [Memoization in React](react/Memoization.md)
 - [React.Fragment](react/Fragement.md)
 - [React.useCallback() and React.Memo](react/useCallback.md)
 
